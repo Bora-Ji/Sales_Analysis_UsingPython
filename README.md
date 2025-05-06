@@ -49,10 +49,10 @@ This project focuses on analyzing sales data to uncover trends, high-performing 
 - Gained hands-on experience in sales data interpretation
 
 ## 🔗 Project Link
-[Insert your Google Drive / GitHub / OneDrive link here]
+(https://github.com/Bora-Ji/Sales_Analysis_UsingPython)
 
 ## 🙋‍♂️ About Me
 **Neeraj Singh Bora**  
-Aspiring Data Analyst skilled in Power BI, Excel, and MySQL.  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile-link)
+Aspiring Data Analyst skilled in Power BI, Excel, MySQL and Python.  
+Connect with me on [LinkedIn](linkedin.com/in/neeraj-singh-bora-8534b8281)
 
